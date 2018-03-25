@@ -1,0 +1,2 @@
+# WPChineneAttachFix
+用于修复WordPress站点迁移后中文名附件无法显示的问题
